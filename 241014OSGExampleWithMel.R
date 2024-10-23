@@ -6,7 +6,7 @@
 # Bryan McNair MS
 #########################################
 
-# Temp change 5
+# Temp change 6
 
 
 dat<-matrix(1:30,nrow=10,ncol=3)
